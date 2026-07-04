@@ -24,6 +24,8 @@ plugins:
     allowDirectVideoIds: true
     allowDirectPlaylistIds: true
     clients:
+      - TV
+      - TVHTML5EMBEDDED
+      - IOS
       - WEB
-      - WEB_REMIX
       
